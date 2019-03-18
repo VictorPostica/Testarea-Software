@@ -1,0 +1,1 @@
+În această lucrare de laborator am facut scrapping de informație la un produs de pe site-ul www.worldofwatches.com utilizînd selenium. De pe acest site am selectat toate cesurile dupa un anumit brand și le-am afișat in consola sub forma de o lista cu denumirea și prețul, apoi la sfîrșit afișez numarul de produse de pe pagină și produsul cu cel mai mic preț.
